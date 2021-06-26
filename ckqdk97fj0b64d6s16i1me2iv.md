@@ -94,21 +94,6 @@ class LongExample {
 }
 ```
 Notice, the use of L at the end of -42332200000. This represents that it's an integral literal of the long type. You will learn about integral literals later in this article.
-### 6. double type 
-1. The double data type is a double-precision 64-bit floating-point.
-2. It should never be used for precise values such as currency.
-3. Default value: 0.0 (0.0d)
->Example Java double data type
-
-```
-class Main {
-  public static void main(String[] args) {
-    	
-    double number = -42.3;
-    System.out.println(number);  // prints -42.3
-  }
-}
-```
 
 ### 6. double type
 1. The double data type is a double-precision 64-bit floating-point.
